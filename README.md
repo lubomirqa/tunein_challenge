@@ -1,7 +1,7 @@
 # tunein_challenge
 Home test automation challenge for TuneIn
 
-# Open Brewery DB Automation Project
+# Open TuneIn Automation Project
 This is Selenium project for TuneIn. Currently only slider functionality at the main page is partly covered with positive automation tests but more will come.
 
 **Prerequirements**
