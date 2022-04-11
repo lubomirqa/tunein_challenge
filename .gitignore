@@ -7,3 +7,4 @@
 #Other files and folders
 *.idea/
 target/*
+*.DS_Store
