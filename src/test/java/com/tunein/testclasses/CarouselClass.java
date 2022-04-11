@@ -46,7 +46,6 @@ public class CarouselClass {
             Thread.sleep(5000);
         }
 
-        System.out.println(hrefs);
         Set<String> set = new HashSet<>(hrefs);
         Assert.assertEquals(set.size(), hrefs.size(),
                 "Slider doesn't change correctly");
